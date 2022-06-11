@@ -1,0 +1,12 @@
+body{
+    background-color: #f1c40f;
+}
+
+#time{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(71, 5, 68);
+    font-family: 'Oswald', sans-serif;
+}
